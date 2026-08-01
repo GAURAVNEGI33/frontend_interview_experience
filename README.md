@@ -1,8 +1,8 @@
 # ItsDeligh — Frontend Web Developer Interview Experience 🚀
 
-**Company:** [ItsDeligh](https://www.linkedin.com/company/itsdeligh) — Prayagraj, Uttar Pradesh
-**Role:** Frontend Web Developer
-**Result:** ✅ Selected
+**Company:** [ItsDeligh](https://www.linkedin.com/company/itsdeligh) — Prayagraj, Uttar Pradesh <br>
+**Role:** Frontend Web Developer <br>
+**Result:** ✅ Selected <br>
 **Interview Duration:** ~50 minutes (Round 2)
 
 ---
